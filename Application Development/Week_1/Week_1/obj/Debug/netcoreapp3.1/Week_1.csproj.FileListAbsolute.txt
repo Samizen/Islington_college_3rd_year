@@ -1,0 +1,14 @@
+E:\Islington 3rd Year Files\Application Development\Week_1\Week_1\bin\Debug\netcoreapp3.1\Week_1.exe
+E:\Islington 3rd Year Files\Application Development\Week_1\Week_1\bin\Debug\netcoreapp3.1\Week_1.deps.json
+E:\Islington 3rd Year Files\Application Development\Week_1\Week_1\bin\Debug\netcoreapp3.1\Week_1.runtimeconfig.json
+E:\Islington 3rd Year Files\Application Development\Week_1\Week_1\bin\Debug\netcoreapp3.1\Week_1.runtimeconfig.dev.json
+E:\Islington 3rd Year Files\Application Development\Week_1\Week_1\bin\Debug\netcoreapp3.1\Week_1.dll
+E:\Islington 3rd Year Files\Application Development\Week_1\Week_1\bin\Debug\netcoreapp3.1\Week_1.pdb
+E:\Islington 3rd Year Files\Application Development\Week_1\Week_1\obj\Debug\netcoreapp3.1\Week_1.csproj.AssemblyReference.cache
+E:\Islington 3rd Year Files\Application Development\Week_1\Week_1\obj\Debug\netcoreapp3.1\Week_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Islington 3rd Year Files\Application Development\Week_1\Week_1\obj\Debug\netcoreapp3.1\Week_1.AssemblyInfoInputs.cache
+E:\Islington 3rd Year Files\Application Development\Week_1\Week_1\obj\Debug\netcoreapp3.1\Week_1.AssemblyInfo.cs
+E:\Islington 3rd Year Files\Application Development\Week_1\Week_1\obj\Debug\netcoreapp3.1\Week_1.csproj.CoreCompileInputs.cache
+E:\Islington 3rd Year Files\Application Development\Week_1\Week_1\obj\Debug\netcoreapp3.1\Week_1.dll
+E:\Islington 3rd Year Files\Application Development\Week_1\Week_1\obj\Debug\netcoreapp3.1\Week_1.pdb
+E:\Islington 3rd Year Files\Application Development\Week_1\Week_1\obj\Debug\netcoreapp3.1\Week_1.genruntimeconfig.cache

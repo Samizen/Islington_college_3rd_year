@@ -1,0 +1,27 @@
+conn system/test123
+
+to reset password:
+connect / as sysdba;
+alter user system identified by newpassword;
+
+How to create a user?
+Connect user system (not a syntax)
+create user username identified by password;
+
+grant connect,resource to username
+
+HR user
+conn HR/hr
+to unlock usr HR,
+conn system/test123
+alter user hr identified by test123 account unlock;
+
+select user from dual;
+
+select table_name from user_tables; --> To see tables for usersd
+
+desc tablename; --> to see table contents
+
+surrogate, composite and its references in database;
+
+See: Default User system in Oracle 11g
